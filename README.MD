@@ -1,4 +1,3 @@
-```
 # Top40Search
 
 Top40Search is a PHP library that allows you to search for artists and retrieve their top 40 results from the Top40.nl website.
@@ -42,5 +41,4 @@ The `$results` array will contain the top 40 results for the artist, including t
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-```
+This project is licensed under the MIT License.
